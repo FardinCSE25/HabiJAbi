@@ -14,6 +14,6 @@ function findAveragePhonePrice(arr){
         { model: "PhoneC", brand: "Oppo", price: 26000 },
         { model: "PhoneD", brand: "Nokia", price: 35000 },
         { model: "PhoneE", brand: "Iphone", price: 105000 },
-        { model: "PhoneF", brand: "HTC", price: 48000 },
+        { model: "PhoneF", brand: "1+", price: 48000 },
     ];
   console.log(findAveragePhonePrice(phones))
