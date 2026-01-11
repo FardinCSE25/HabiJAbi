@@ -18,5 +18,5 @@ else if(BMI >= 24.9 && BMI < 29.9){
 }
 
 else {
-    console.log('sthulo');
+    console.log('mota');
 }
